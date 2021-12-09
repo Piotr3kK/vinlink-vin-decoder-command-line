@@ -1,6 +1,6 @@
 # Online VIN decoder - command line access
 
-This is an example of command line access to VinLink online VIN decoder.
+This is an example of command line access to VinLink - online VIN decoder.
 
 You need to create an account at www.vinlink.com
 
